@@ -176,8 +176,7 @@ Contributions welcome! Feel free to open issues or submit PRs for:
 
 - **GitHub**: [@ADIVIDAN1012](https://github.com/ADIVIDAN1012)
 - **YouTube**: [Anadafus](https://www.youtube.com/@ANADAFUS-1012)
-- **Email**: [via GitHub profile]
-
+- **Email**: sadhuadividan@gmail.com
 ---
 
 **Building the future of automated storytelling. One echo at a time. 🚀**
