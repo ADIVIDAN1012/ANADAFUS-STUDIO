@@ -4,9 +4,10 @@
 AI-powered multimedia content studio that transforms narratives, data, and trends into stunning visual stories. 
 
 **ANADAFUS-STUDIO** creates diverse video content types:
-- **TGR Saga**: "The Genior Resurgence" - Narrative sci-fi storytelling
-- **Genior Series**: Prequel & world-building content
-- **Trend Analysis Videos**: Data-driven insights on tech, AI, and industry trends
+- **Microbio Series: The Epic Saga**: Research-driven microbiological documentaries (26 videos)
+- **Genior: The Birth of Adi & Samir's Tale**: Prequel & world-building content (9 videos)
+- **The Genior Resurgence**: Narrative sci-fi storytelling (7 videos)
+- - **Trend Analysis Videos**: Data-driven insights on tech, AI, and industry trends
 - **Technical Tutorials**: Compiler design, programming, and open-source walkthroughs
 - **Archive & Documentary**: Episode summaries, behind-the-scenes narratives
 
