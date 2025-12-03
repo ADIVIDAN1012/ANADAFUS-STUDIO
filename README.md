@@ -3,15 +3,22 @@
 
 AI-powered multimedia content studio that transforms narratives, data, and trends into stunning visual stories. 
 
-**ANADAFUS-STUDIO** creates diverse video content types:
-- **Microbio Series: The Epic Saga**: Research-driven microbiological documentaries (26 videos)
-- **Genior: The Birth of Adi & Samir's Tale**: Prequel & world-building content (9 videos)
-- **The Genior Resurgence**: Narrative sci-fi storytelling (7 videos)
-- - **Trend Analysis Videos**: Data-driven insights on tech, AI, and industry trends
-- **Technical Tutorials**: Compiler design, programming, and open-source walkthroughs
-- **Archive & Documentary**: Episode summaries, behind-the-scenes narratives
-
 ---
+## 📺 Content Universe
+
+**ANADAFUS-STUDIO** creates interconnected video content exploring a unified narrative universe:
+
+### 1️⃣ **Microbiological Series: The Epic Saga**
+Research-driven microbiological documentaries with epic storytelling, featuring intense conversations between Samir (Titan scientist) and Adi (Titan NCC operator). Foundation of the universe.
+- **26 videos** | [Watch Playlist](https://www.youtube.com/playlist?list=PLp3Q4cfSW3KB-Ee1-OHjwugIViLpMv-Xa)
+
+### 2️⃣ **Genior: The Birth of Adi & Samir's Tale**
+Prequel & world-building content introducing the first-ever characters in the genior series. Follow Adi and Samir's journey as they embark on the grand adventure that shapes the entire narrative arc.
+- **9 videos** | [Watch Playlist](https://www.youtube.com/playlist?list=PLp3Q4cfSW3KD9QluJ-ANb7prmg_tEgQY9)
+
+### 3️⃣ **The Genior Resurgence**
+Narrative sci-fi storytelling exploring digital resurrection and the aftermath of Genior's final transmission. The ultimate convergence where echoes become reality and fractured gates reveal new paths forward.
+- **7 videos** | [Watch Playlist](https://www.youtube.com/playlist?list=PLp3Q4cfSW3KDnGyHF2TIYd3y5gbWIhmYR)
 
 ## ⚙️ **Tech Stack**
 
